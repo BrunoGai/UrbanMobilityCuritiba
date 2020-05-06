@@ -1,0 +1,429 @@
+[
+{
+"NUM": "109074",
+"NOME": "Estac?o Tubo Westphalen / Getulio Vargas",
+"LAT": "-25.443506463375",
+"LON": "-49.268243834793",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109027",
+"NOME": "Terminal Guadalupe - 505-Boqueir?o / Centro Civico-507-Sitio Cercado (H)",
+"LAT": "-25.43249623228",
+"LON": "-49.265448074947",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109113",
+"NOME": "Terminal Sitio Cercado - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.534079003482",
+"LON": "-49.267110219499",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109074",
+"NOME": "Estac?o Tubo Westphalen / Getulio Vargas",
+"LAT": "-25.443506463375",
+"LON": "-49.268243834793",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109006",
+"NOME": "Estac?o Tubo Alto Boqueir?o",
+"LAT": "-25.524822749335",
+"LON": "-49.247543989706",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109027",
+"NOME": "Terminal Guadalupe - 505-Boqueir?o / Centro Civico-507-Sitio Cercado (H)",
+"LAT": "-25.43249623228",
+"LON": "-49.265448074947",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109102",
+"NOME": "Terminal Boqueir?o - 507 - Sitio Cercado (Horario) / 546 - S.Cercado / Boqueir?o",
+"LAT": "-25.516446747014",
+"LON": "-49.23098317791",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109002",
+"NOME": "Estac?o Tubo Agua Verde / Getulio Vargas",
+"LAT": "-25.449737563135",
+"LON": "-49.284600353044",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "105707",
+"NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.51216481452",
+"LON": "-49.294520978617",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109113",
+"NOME": "Terminal Sitio Cercado - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.534079003482",
+"LON": "-49.267110219499",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109076",
+"NOME": "Estac?o Tubo Xapinhal",
+"LAT": "-25.535641637299",
+"LON": "-49.284699865867",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109113",
+"NOME": "Terminal Sitio Cercado - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.534079003482",
+"LON": "-49.267110219499",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109006",
+"NOME": "Estac?o Tubo Alto Boqueir?o",
+"LAT": "-25.524822749335",
+"LON": "-49.247543989706",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109076",
+"NOME": "Estac?o Tubo Xapinhal",
+"LAT": "-25.535641637299",
+"LON": "-49.284699865867",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109039",
+"NOME": "Estac?o Tubo Paiol",
+"LAT": "-25.448161149017",
+"LON": "-49.258066825944",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109113",
+"NOME": "Terminal Sitio Cercado - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.534079003482",
+"LON": "-49.267110219499",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109102",
+"NOME": "Terminal Boqueir?o - 507 - Sitio Cercado (Horario) / 546 - S.Cercado / Boqueir?o",
+"LAT": "-25.516446747014",
+"LON": "-49.23098317791",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109039",
+"NOME": "Estac?o Tubo Paiol",
+"LAT": "-25.448161149017",
+"LON": "-49.258066825944",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109102",
+"NOME": "Terminal Boqueir?o - 507 - Sitio Cercado (Horario) / 546 - S.Cercado / Boqueir?o",
+"LAT": "-25.516446747014",
+"LON": "-49.23098317791",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109076",
+"NOME": "Estac?o Tubo Xapinhal",
+"LAT": "-25.535641637299",
+"LON": "-49.284699865867",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109097",
+"NOME": "Terminal Cap?o Raso - 507 - Sitio Cercado(H) - 610-S.Cercado / C.Raso",
+"LAT": "-25.492386893782",
+"LON": "-49.293011014785",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109027",
+"NOME": "Terminal Guadalupe - 505-Boqueir?o / Centro Civico-507-Sitio Cercado (H)",
+"LAT": "-25.43249623228",
+"LON": "-49.265448074947",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109039",
+"NOME": "Estac?o Tubo Paiol",
+"LAT": "-25.448161149017",
+"LON": "-49.258066825944",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109002",
+"NOME": "Estac?o Tubo Agua Verde / Getulio Vargas",
+"LAT": "-25.449737563135",
+"LON": "-49.284600353044",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109106",
+"NOME": "Terminal Carmo - 505 - Boqueir?o/C. Civico / 507 - Sitio Cercado (Horario)",
+"LAT": "-25.500857171801",
+"LON": "-49.237654831903",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "105707",
+"NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.51216481452",
+"LON": "-49.294520978617",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109030",
+"NOME": "Estac?o Tubo Guadalupe",
+"LAT": "-25.433655433387",
+"LON": "-49.263477908598",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109006",
+"NOME": "Estac?o Tubo Alto Boqueir?o",
+"LAT": "-25.524822749335",
+"LON": "-49.247543989706",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109030",
+"NOME": "Estac?o Tubo Guadalupe",
+"LAT": "-25.433655433387",
+"LON": "-49.263477908598",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109030",
+"NOME": "Estac?o Tubo Guadalupe",
+"LAT": "-25.433655433387",
+"LON": "-49.263477908598",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109097",
+"NOME": "Terminal Cap?o Raso - 507 - Sitio Cercado(H) - 610-S.Cercado / C.Raso",
+"LAT": "-25.492386893782",
+"LON": "-49.293011014785",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109097",
+"NOME": "Terminal Cap?o Raso - 507 - Sitio Cercado(H) - 610-S.Cercado / C.Raso",
+"LAT": "-25.492386893782",
+"LON": "-49.293011014785",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109102",
+"NOME": "Terminal Boqueir?o - 507 - Sitio Cercado (Horario) / 546 - S.Cercado / Boqueir?o",
+"LAT": "-25.516446747014",
+"LON": "-49.23098317791",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109002",
+"NOME": "Estac?o Tubo Agua Verde / Getulio Vargas",
+"LAT": "-25.449737563135",
+"LON": "-49.284600353044",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "105707",
+"NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.51216481452",
+"LON": "-49.294520978617",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109076",
+"NOME": "Estac?o Tubo Xapinhal",
+"LAT": "-25.535641637299",
+"LON": "-49.284699865867",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109102",
+"NOME": "Terminal Boqueir?o - 507 - Sitio Cercado (Horario) / 546 - S.Cercado / Boqueir?o",
+"LAT": "-25.516446747014",
+"LON": "-49.23098317791",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109074",
+"NOME": "Estac?o Tubo Westphalen / Getulio Vargas",
+"LAT": "-25.443506463375",
+"LON": "-49.268243834793",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109027",
+"NOME": "Terminal Guadalupe - 505-Boqueir?o / Centro Civico-507-Sitio Cercado (H)",
+"LAT": "-25.43249623228",
+"LON": "-49.265448074947",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109097",
+"NOME": "Terminal Cap?o Raso - 507 - Sitio Cercado(H) - 610-S.Cercado / C.Raso",
+"LAT": "-25.492386893782",
+"LON": "-49.293011014785",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "105707",
+"NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.51216481452",
+"LON": "-49.294520978617",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109006",
+"NOME": "Estac?o Tubo Alto Boqueir?o",
+"LAT": "-25.524822749335",
+"LON": "-49.247543989706",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109006",
+"NOME": "Estac?o Tubo Alto Boqueir?o",
+"LAT": "-25.524822749335",
+"LON": "-49.247543989706",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109027",
+"NOME": "Terminal Guadalupe - 505-Boqueir?o / Centro Civico-507-Sitio Cercado (H)",
+"LAT": "-25.43249623228",
+"LON": "-49.265448074947",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109039",
+"NOME": "Estac?o Tubo Paiol",
+"LAT": "-25.448161149017",
+"LON": "-49.258066825944",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109030",
+"NOME": "Estac?o Tubo Guadalupe",
+"LAT": "-25.433655433387",
+"LON": "-49.263477908598",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109113",
+"NOME": "Terminal Sitio Cercado - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.534079003482",
+"LON": "-49.267110219499",
+"SENTIDO": "Horario"
+},
+{
+"NUM": "109002",
+"NOME": "Estac?o Tubo Agua Verde / Getulio Vargas",
+"LAT": "-25.449737563135",
+"LON": "-49.284600353044",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109106",
+"NOME": "Terminal Carmo - 505 - Boqueir?o/C. Civico / 507 - Sitio Cercado (Horario)",
+"LAT": "-25.500857171801",
+"LON": "-49.237654831903",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109039",
+"NOME": "Estac?o Tubo Paiol",
+"LAT": "-25.448161149017",
+"LON": "-49.258066825944",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109113",
+"NOME": "Terminal Sitio Cercado - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.534079003482",
+"LON": "-49.267110219499",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109106",
+"NOME": "Terminal Carmo - 505 - Boqueir?o/C. Civico / 507 - Sitio Cercado (Horario)",
+"LAT": "-25.500857171801",
+"LON": "-49.237654831903",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109097",
+"NOME": "Terminal Cap?o Raso - 507 - Sitio Cercado(H) - 610-S.Cercado / C.Raso",
+"LAT": "-25.492386893782",
+"LON": "-49.293011014785",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109106",
+"NOME": "Terminal Carmo - 505 - Boqueir?o/C. Civico / 507 - Sitio Cercado (Horario)",
+"LAT": "-25.500857171801",
+"LON": "-49.237654831903",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "109030",
+"NOME": "Estac?o Tubo Guadalupe",
+"LAT": "-25.433655433387",
+"LON": "-49.263477908598",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109074",
+"NOME": "Estac?o Tubo Westphalen / Getulio Vargas",
+"LAT": "-25.443506463375",
+"LON": "-49.268243834793",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109076",
+"NOME": "Estac?o Tubo Xapinhal",
+"LAT": "-25.535641637299",
+"LON": "-49.284699865867",
+"SENTIDO": "Terminal Guadalupe"
+},
+{
+"NUM": "109002",
+"NOME": "Estac?o Tubo Agua Verde / Getulio Vargas",
+"LAT": "-25.449737563135",
+"LON": "-49.284600353044",
+"SENTIDO": "Terminal Boqueir?o"
+},
+{
+"NUM": "109074",
+"NOME": "Estac?o Tubo Westphalen / Getulio Vargas",
+"LAT": "-25.443506463375",
+"LON": "-49.268243834793",
+"SENTIDO": "Terminal Sitio Cercado"
+},
+{
+"NUM": "105707",
+"NOME": "Terminal Pinheirinho - 507 - Sitio Cercado (Horario)",
+"LAT": "-25.51216481452",
+"LON": "-49.294520978617",
+"SENTIDO": "Terminal Pinheirinho"
+},
+{
+"NUM": "109106",
+"NOME": "Terminal Carmo - 505 - Boqueir?o/C. Civico / 507 - Sitio Cercado (Horario)",
+"LAT": "-25.500857171801",
+"LON": "-49.237654831903",
+"SENTIDO": "Horario"
+}
+]

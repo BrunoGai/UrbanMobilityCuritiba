@@ -1,0 +1,492 @@
+[
+{
+"NUM": "104702",
+"NOME": "Terminal Cap?o da Imbuia - 303 - Centenario / Campo Comprido",
+"LAT": "-25.440148554607",
+"LON": "-49.221592129416",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108167",
+"NOME": "Estac?o Tubo Mariano Torres",
+"LAT": "-25.435644780933",
+"LON": "-49.26077879082",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "105101",
+"NOME": "Terminal Centenario - 302 - Centenario / Rui Barbosa / 303 - Centenario / Campo Comprido",
+"LAT": "-25.46900229",
+"LON": "-49.20829802",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108169",
+"NOME": "Estac?o Tubo Praca Rui Barbosa - 303 - Centenario / Campo Comprido",
+"LAT": "-25.43592973",
+"LON": "-49.2749106",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108163",
+"NOME": "Estac?o Tubo Viaduto Capanema",
+"LAT": "-25.435638778793",
+"LON": "-49.250571397316",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108143",
+"NOME": "Estac?o Tubo Catulo da P. Cearense",
+"LAT": "-25.46521811",
+"LON": "-49.20987407",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108155",
+"NOME": "Estac?o Tubo Del. Amazor Prestes",
+"LAT": "-25.441828976264",
+"LON": "-49.230751377613",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108145",
+"NOME": "Estac?o Tubo Cajuru",
+"LAT": "-25.460458700548",
+"LON": "-49.211855217316",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108161",
+"NOME": "Estac?o Tubo Hospital Cajuru",
+"LAT": "-25.437130902377",
+"LON": "-49.243700245225",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108154",
+"NOME": "Estac?o Tubo Prof?. Maria Aguiar Teixeira",
+"LAT": "-25.438812743998",
+"LON": "-49.226358458817",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108179",
+"NOME": "Estac?o Tubo Pres.Taunay",
+"LAT": "-25.428815003633",
+"LON": "-49.287983508056",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108025",
+"NOME": "Estac?o Tubo Praca Eufrasio Correia",
+"LAT": "-25.43759253",
+"LON": "-49.26672726",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108144",
+"NOME": "Estac?o Tubo Catulo da P. Cearense",
+"LAT": "-25.465055224179",
+"LON": "-49.209806384656",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108146",
+"NOME": "Estac?o Tubo Cajuru",
+"LAT": "-25.4604271982",
+"LON": "-49.21174654785",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108148",
+"NOME": "Estac?o Tubo Teofilo Otoni",
+"LAT": "-25.45728548614",
+"LON": "-49.212937013492",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108184",
+"NOME": "Estac?o Tubo Bruno Filgueira",
+"LAT": "-25.431851374567",
+"LON": "-49.296536492359",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108190",
+"NOME": "Estac?o Tubo Major Heitor Guimar?es",
+"LAT": "-25.437868930461",
+"LON": "-49.314091466504",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108200",
+"NOME": "Estac?o Tubo Imperial",
+"LAT": "-25.439949184101",
+"LON": "-49.336961573285",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108165",
+"NOME": "Estac?o Tubo Rodoferroviaria",
+"LAT": "-25.435717541034",
+"LON": "-49.257546557494",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108026",
+"NOME": "Estac?o Tubo Praca Eufrasio Correia",
+"LAT": "-25.437670038693",
+"LON": "-49.266681661447",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108199",
+"NOME": "Estac?o Tubo Imperial",
+"LAT": "-25.440034875186",
+"LON": "-49.336916782222",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108185",
+"NOME": "Estac?o Tubo Bigorrilho",
+"LAT": "-25.433301515379",
+"LON": "-49.299922020382",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108183",
+"NOME": "Estac?o Tubo Bruno Filgueira",
+"LAT": "-25.431949158009",
+"LON": "-49.296483428425",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108157",
+"NOME": "Estac?o Tubo Urbano Lopes",
+"LAT": "-25.440800424556",
+"LON": "-49.236691126152",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108149",
+"NOME": "Estac?o Tubo Antonio Meirelles Sobrinho",
+"LAT": "-25.447015365256",
+"LON": "-49.216953419584",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108147",
+"NOME": "Estac?o Tubo Teofilo Otoni",
+"LAT": "-25.457312115745",
+"LON": "-49.213038907434",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108152",
+"NOME": "Estac?o Tubo Germania",
+"LAT": "-25.442132410438",
+"LON": "-49.217694966865",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108178",
+"NOME": "Estac?o Tubo Brigadeiro Franco",
+"LAT": "-25.429512583888",
+"LON": "-49.283790215912",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "104601",
+"NOME": "Terminal Campo Comprido - 303 - Centenario / C.Comprido - Embarque",
+"LAT": "-25.44171989811",
+"LON": "-49.346978282274",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108201",
+"NOME": "Estac?o Tubo U.S. Campo Comprido",
+"LAT": "-25.441060642695",
+"LON": "-49.342506505809",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108191",
+"NOME": "Estac?o Tubo Rio Barigui",
+"LAT": "-25.439305278471",
+"LON": "-49.3177198183",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108189",
+"NOME": "Estac?o Tubo Major Heitor Guimar?es",
+"LAT": "-25.437968344722",
+"LON": "-49.31409883613",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108181",
+"NOME": "Estac?o Tubo Praca da Ucrania",
+"LAT": "-25.430382257228",
+"LON": "-49.292587519831",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108174",
+"NOME": "Estac?o Tubo Praca Osorio",
+"LAT": "-25.433811007574",
+"LON": "-49.277131290382",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108151",
+"NOME": "Estac?o Tubo Germania",
+"LAT": "-25.442221997638",
+"LON": "-49.217733858895",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108159",
+"NOME": "Estac?o Tubo Jardim Botanico",
+"LAT": "-25.438177333104",
+"LON": "-49.238731363135",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108173",
+"NOME": "Estac?o Tubo Praca Osorio",
+"LAT": "-25.433755359256",
+"LON": "-49.277063235596",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108188",
+"NOME": "Estac?o Tubo Gast?o Camara",
+"LAT": "-25.434940199485",
+"LON": "-49.304336607865",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108192",
+"NOME": "Estac?o Tubo Rio Barigui",
+"LAT": "-25.439215779396",
+"LON": "-49.317719740852",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108196",
+"NOME": "Estac?o Tubo S?o Grato",
+"LAT": "-25.436480047889",
+"LON": "-49.328490570391",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108160",
+"NOME": "Estac?o Tubo Jardim Botanico",
+"LAT": "-25.438110723495",
+"LON": "-49.238652241969",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108030",
+"NOME": "Estac?o Tubo Praca Rui Barbosa - 303 - Centenario / Campo Comprido",
+"LAT": "-25.435613478",
+"LON": "-49.27426829",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "105602",
+"NOME": "Terminal Oficinas - 303 - Centenario / Campo Comprido",
+"LAT": "-25.451939302546",
+"LON": "-49.214773788885",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108153",
+"NOME": "Estac?o Tubo Prof?. Maria Aguiar Teixeira",
+"LAT": "-25.438885212335",
+"LON": "-49.22626429576",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108177",
+"NOME": "Estac?o Tubo Brigadeiro Franco",
+"LAT": "-25.429440666486",
+"LON": "-49.284535626389",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108187",
+"NOME": "Estac?o Tubo Gast?o Camara",
+"LAT": "-25.435033422382",
+"LON": "-49.304303408808",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108158",
+"NOME": "Estaca? Tubo Urbano Lopes",
+"LAT": "-25.440751982263",
+"LON": "-49.236597228836",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108182",
+"NOME": "Estac?o Tubo Praca da Ucrania",
+"LAT": "-25.430287060502",
+"LON": "-49.292623233103",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108186",
+"NOME": "Estac?o Tubo Bigorrilho",
+"LAT": "-25.433217232278",
+"LON": "-49.299960331971",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108166",
+"NOME": "Estac?o Tubo Rodoferroviaria",
+"LAT": "-25.435617512424",
+"LON": "-49.256634944672",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108195",
+"NOME": "Estac?o Tubo S?o Grato",
+"LAT": "-25.436570794314",
+"LON": "-49.328525097317",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108197",
+"NOME": "Estac?o Tubo Mossungue",
+"LAT": "-25.438680511373",
+"LON": "-49.333147884554",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108193",
+"NOME": "Estac?o Tubo Paulo Gorski",
+"LAT": "-25.437596674402",
+"LON": "-49.324382425493",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108176",
+"NOME": "Estac?o Tubo Visconde de Nacar",
+"LAT": "-25.431349971641",
+"LON": "-49.278870702928",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "104601",
+"NOME": "Terminal Campo Comprido - 303 - Centenario / C.Comprido - Embarque",
+"LAT": "-25.44171989811",
+"LON": "-49.346978282274",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "104509",
+"NOME": "Terminal Campina do Siqueira - 303 - Centenario / Campo Comprido",
+"LAT": "-25.436113831389",
+"LON": "-49.307527818046",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "105601",
+"NOME": "Terminal Oficinas - 303 - Centenario / Campo Comprido",
+"LAT": "-25.4511728",
+"LON": "-49.2152244",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "108180",
+"NOME": "Estac?o Tubo Pres.Taunay",
+"LAT": "-25.428757407687",
+"LON": "-49.287950657402",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108198",
+"NOME": "Estac?o Tubo Mossungue",
+"LAT": "-25.438594547776",
+"LON": "-49.333182089328",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108202",
+"NOME": "Estac?o Tubo U.S. Campo Comprido",
+"LAT": "-25.440968576519",
+"LON": "-49.342524474014",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108156",
+"NOME": "Estac?o Tubo Del. Amazor Prestes",
+"LAT": "-25.44170960553",
+"LON": "-49.23077471596",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108164",
+"NOME": "Estac?o Tubo Viaduto Capanema",
+"LAT": "-25.435546730475",
+"LON": "-49.250568710107",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "104701",
+"NOME": "Terminal Cap?o da Imbuia - 303 - Centenario / Campo Comprido",
+"LAT": "-25.440005649011",
+"LON": "-49.221567080322",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108168",
+"NOME": "Estac?o Tubo Mariano Torres",
+"LAT": "-25.435735612068",
+"LON": "-49.260801584596",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "105101",
+"NOME": "Terminal Centenario - 302 - Centenario / Rui Barbosa / 303 - Centenario / Campo Comprido",
+"LAT": "-25.46900229",
+"LON": "-49.20829802",
+"SENTIDO": "Terminal Centenario"
+},
+{
+"NUM": "104505",
+"NOME": "Terminal Campina do Siqueira - 303 - Centenario / Campo Comprido",
+"LAT": "-25.435723602407",
+"LON": "-49.306998364944",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108150",
+"NOME": "Estac?o Tubo Antonio Meirelles Sobrinho",
+"LAT": "-25.446970598447",
+"LON": "-49.216856830059",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108175",
+"NOME": "Estac?o Tubo Visconde de Nacar",
+"LAT": "-25.431274052955",
+"LON": "-49.278832487674",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108194",
+"NOME": "Estac?o Tubo Paulo Gorski",
+"LAT": "-25.43750563285",
+"LON": "-49.324355190285",
+"SENTIDO": "Terminal Campo Comprido"
+},
+{
+"NUM": "108162",
+"NOME": "Estac?o Tubo Hospital Cajuru",
+"LAT": "-25.437027959344",
+"LON": "-49.243685491076",
+"SENTIDO": "Terminal Campo Comprido"
+}
+]
