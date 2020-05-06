@@ -40,9 +40,9 @@ Ponto   = '109027'
 # Variáveis para armazenamento de strings
 dados1 = []
 # Path para arquivos .json
-path_Geral = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Geral/'
-path_Arquivos = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Veiculos/'
-path_Linhas = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Linhas/'
+path_Geral = 'D:/Dados URBS/Geral/'
+path_Arquivos = 'D:/Dados URBS/Veiculos/'
+path_Linhas = 'D:/Dados URBS/Linhas/'
 
 # Calcula a variação por horaria de ocorrencias por ponto
 #------------------------------------------------------
