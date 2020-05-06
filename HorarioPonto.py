@@ -7,8 +7,8 @@ def HorarioPonto():
   # Variáveis para armazenamento de strings
   HorarioLinha = []
   # Path para arquivos .json
-  path_Linhas = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Linhas/'
-  path_Geral = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Geral/'
+  path_Linhas = 'D:/Dados URBS/Linhas/'
+  path_Geral = 'D:/Dados URBS/Geral/'
   # Variáveis do ponto a ser localizado
   Linha = '507'
   Ponto = '109027'
