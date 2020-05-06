@@ -7,8 +7,8 @@ from datetime import *
 #------------------------------------------------------
 def Verificacao():
     # Path para arquivos .json
-    path_Geral = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Geral/'
-    path_Arquivos = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Veiculos/'
+    path_Geral = 'D:/Dados URBS/Geral/'
+    path_Arquivos = 'D:/Dados URBS/Veiculos/'
     data1 = date(2017,1,1)
     # Carrega quais arquivos de posicionamento devem ser abertos 
     with open(path_Geral + 'Arquivos_Completo.json') as f:
