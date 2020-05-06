@@ -7,7 +7,7 @@ def PontosLinha():
   # Variáveis para armazenamento de strings
   PontosLinha = []
   # Path para arquivos .json
-  path_Linhas = 'D:/UTFPR/TCC 2 - Sérgio Moribe/Dados URBS/Linhas/'
+  path_Linhas = 'D:/Dados URBS/Linhas/'
   # Variáveis da linha a ser localizada  
   #Linha = '924'
   #Linha = '303'
